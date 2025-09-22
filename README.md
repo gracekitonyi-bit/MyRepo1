@@ -1,2 +1,4 @@
 # MyRepo1
-Repository for exploring mathematics, coding, and innovation at AIMS Rwanda.
+## Hi there!
+### Welcome!
+Repository for exploring mathematics, coding, and innovation at AIMS South Africa.
